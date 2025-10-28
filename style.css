@@ -1,0 +1,175 @@
+body{
+    background-color: #F9F2DD;
+    margin: 0%;
+    background-image: url(Untitled\ design\ \(12\).png);
+    background-repeat: no-repeat;
+    background-size:cover ;
+}
+.topnav{
+    overflow: hidden;
+    position:sticky;
+	top: 0%;
+    width: 100%;
+    align-items: center;
+    float: left;
+    height: 50px;
+}
+.topnav a{
+    margin-top: 20px;
+    color:white;
+    font-weight: bold;
+    font-family: 'Sono', sans-serif;
+    text-align-last: center;
+	padding: 20px 20px 30px 30px;
+	text-decoration: none !important;
+	font-size: 25px;
+    color: #EAAB24;
+
+
+  }
+  .topnav a:hover {
+	background-color: #bbb;
+    padding: 20px 20px 30px 30px;
+	color: black;
+  }
+  section{
+    height: 600px;
+    margin-top: 50px;
+    width: 100vw;    
+
+  }
+h1{
+  font-family: "Fjalla One"; 
+  font-weight: 400;
+  font-size: 45px;
+  font-style: normal;
+
+
+}
+  p{
+    
+
+  font-family: "Source Code Pro", monospace;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+
+  }
+#sec1{
+    background-image: url("Black\ and\ White\ Modern\ Minimalist\ Charity\ Presentation.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 90vw;
+    margin:30px ;
+}    
+
+.common_button{
+  height: 50vh;
+  display: inline-block;
+  width: 20vw;          
+  margin-left: 2vw;
+  box-sizing: border-box;
+
+  color: #090909;
+  font-size: 18px;
+  border-radius: 0.5em;
+  background: #e8e8e8;
+  cursor: pointer;
+  border: 1px solid #e8e8e8;
+  transition: all 0.3s;
+  box-shadow: 6px 6px 12px #c5c5c5, -6px -6px 12px #ffffff;
+
+   
+}
+.container{
+float:center}
+.common_button:hover{
+  height: 55vh;
+  display: inline-block;
+  width: 25vw;          
+  margin-left: 2vw;
+  box-sizing: border-box;
+
+  color: #090909;
+  font-size: 18px;
+  border-radius: 0.5em;
+  background: #e8e8e8;
+  cursor: pointer;
+  border: 1px solid #e8e8e8;
+  transition: all 0.3s;
+  box-shadow: 6px 6px 12px #c5c5c5, -6px -6px 12px #ffffff;
+}
+#sec3{
+    background-image: url('1.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+  footer {
+    background-color: #000;
+    color: #fff;
+    padding: 40px 10%;
+    font-family: 'Poppins', sans-serif;
+  }
+
+  .footer-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 30px;
+  }
+
+  .footer-container div {
+    flex: 1 1 250px;
+  }
+
+  .footer-about h3 {
+    font-size: 22px;
+    margin-bottom: 10px;
+  }
+
+  .footer-about p {
+    font-size: 14px;
+    line-height: 1.6;
+    color: #ccc;
+  }
+
+  .footer-links h4,
+  .footer-contact h4 {
+    margin-bottom: 10px;
+    font-size: 18px;
+  }
+
+  .footer-links ul {
+    list-style: none;
+    padding: 0;
+  }
+
+  .footer-links ul li {
+    margin-bottom: 8px;
+  }
+
+  .footer-links a {
+    color: #ccc;
+    text-decoration: none;
+    transition: color 0.3s;
+  }
+
+  .footer-links a:hover {
+    color: #fff;
+  }
+
+  .footer-contact p {
+    margin: 5px 0;
+    color: #ccc;
+  }
+
+  .footer-bottom {
+    text-align: center;
+    border-top: 1px solid #333;
+    padding-top: 15px;
+    margin-top: 30px;
+    font-size: 14px;
+    color: #888;
+  }
+
+
